@@ -11,5 +11,12 @@
 
     <artifactId>module2</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>cn.xxx</groupId>
+            <artifactId>module1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
