@@ -12,7 +12,7 @@
     <artifactId>common</artifactId>
     <packaging>jar</packaging>
 
-    <name>chinabank shared dependence</name>
+    <name>common</name>
     <url>http://maven.apache.org</url>
 
     <properties>
